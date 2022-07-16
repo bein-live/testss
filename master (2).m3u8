@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:4
+
+
+
+#EXT-X-STREAM-INF:BANDWIDTH=3500000,CODECS="avc1.000000,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
+https://streamamg-arsen01.akamaized.net/hls/live/2043289/0_cqp3up85/1080p/hdntl=exp=1658096913~acl=%2f*~data=hdntl~hmac=23c8f931664ed5de0db4e0f79d28dfda5ea3e130548dc5dfa96bd907fd8d6059/prog_index.m3u8
